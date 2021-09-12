@@ -1,0 +1,109 @@
+﻿TY  - JOUR
+AB  - In July 2020, the UK Government began the Better Health campaign to target overweight and obesity in light of the ongoing COVID-19 pandemic. This free weight loss plan is meant to encourage healthier eating habits and a more active lifestyle, but the approach is flawed.
+AN  - 32929229
+C2  - PMC7489452
+DA  - Nov
+DO  - 10.1038/s41574-020-00420-x
+DP  - NLM
+ET  - 2020/09/16
+IS  - 11
+KW  - *Betacoronavirus
+Covid-19
+Comorbidity
+Coronavirus Infections/*epidemiology
+*Health Policy
+Healthy Lifestyle
+Humans
+Obesity/*epidemiology/*therapy
+Pandemics
+Pneumonia, Viral/*epidemiology
+SARS-CoV-2
+United Kingdom/epidemiology
+LA  - eng
+N1  - 1759-5037
+Editorial
+Nat Rev Endocrinol. 2020 Nov;16(11):609. doi: 10.1038/s41574-020-00420-x.
+PY  - 2020
+SN  - 1759-5029 (Print)
+1759-5029
+SP  - 609
+ST  - UK policy targeting obesity during a pandemic - the right approach?
+T2  - Nat Rev Endocrinol
+TI  - UK policy targeting obesity during a pandemic - the right approach?
+VL  - 16
+ID  - 1392
+ER  - 
+
+TY  - JOUR
+AN  - 32565394
+C2  - PMC7274951
+DA  - Aug
+DO  - 10.1016/j.soard.2020.06.003
+DP  - NLM
+ET  - 2020/06/23
+IS  - 8
+KW  - *Bariatric Surgery
+*Betacoronavirus
+Covid-19
+Coronavirus Infections/*epidemiology/prevention & control/transmission
+Humans
+Obesity/*complications/*surgery
+Pandemics/prevention & control
+Patient Selection
+Pneumonia, Viral/*epidemiology/prevention & control/transmission
+Risk Assessment
+SARS-CoV-2
+LA  - eng
+N1  - 1878-7533
+Executive Council of ASMBS
+Journal Article
+Review
+Surg Obes Relat Dis. 2020 Aug;16(8):981-982. doi: 10.1016/j.soard.2020.06.003. Epub 2020 Jun 6.
+PY  - 2020
+SN  - 1550-7289 (Print)
+1550-7289
+SP  - 981-982
+ST  - Safer through surgery: American Society for Metabolic and Bariatric Surgery statement regarding metabolic and bariatric surgery during the COVID-19 pandemic
+T2  - Surg Obes Relat Dis
+TI  - Safer through surgery: American Society for Metabolic and Bariatric Surgery statement regarding metabolic and bariatric surgery during the COVID-19 pandemic
+VL  - 16
+ID  - 1546
+ER  - 
+
+TY  - JOUR
+AN  - 32783683
+C2  - PMC7429997
+DA  - Nov 17
+DO  - 10.7326/p20-0011
+DP  - NLM
+ET  - 2020/08/14
+IS  - 10
+KW  - Betacoronavirus
+Body Mass Index
+Covid-19
+Coronavirus Infections/*mortality
+Hospitalization
+Humans
+Multiple Chronic Conditions/epidemiology
+Obesity/*complications
+Overweight/*complications
+Pandemics
+Pneumonia, Viral/*mortality
+Risk Factors
+SARS-CoV-2
+United States/epidemiology
+LA  - eng
+N1  - 1539-3704
+Journal Article
+Patient Education Handout
+Ann Intern Med. 2020 Nov 17;173(10):I14. doi: 10.7326/P20-0011. Epub 2020 Aug 12.
+PY  - 2020
+SN  - 0003-4819 (Print)
+0003-4819
+SP  - I14
+ST  - Summary for Patients: Obesity and Risk for Adverse Outcomes Among Patients Diagnosed With COVID-19
+T2  - Ann Intern Med
+TI  - Summary for Patients: Obesity and Risk for Adverse Outcomes Among Patients Diagnosed With COVID-19
+VL  - 173
+ID  - 1566
+ER  - 
